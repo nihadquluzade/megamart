@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     list-style: none;
+    text-decoration: none;
 }
 
 .container {
@@ -187,3 +188,9 @@
     display: flex;
     justify-content: space-between;
 }
+
+hr{
+    width: 173px;
+    color: blue;
+}
+
